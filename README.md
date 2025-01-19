@@ -32,5 +32,5 @@ Modeling:
 <br/>7)Categorical Encoding: Encodes beer/style and beer/name as frequency-based numerical categories, reflecting the popularity of each style and name in the dataset.
 <br/>8)TF-IDF matrix to dataframe, merge it in original data and removed unnecessary columns.
 <br/>9)Splitting train and test cases in 80:20 ratio
-<br/>10)Trained the model and tested for vaalidation metrics(R2=0.67 approx)
+<br/>10)Trained the model and tested for vaalidation metrics(R^2=0.67 approx)
 <br/>11)Differences between actual and predicted values and important features among the columns through plots
